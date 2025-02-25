@@ -25,7 +25,7 @@ Design: Software, navigation, and user interface architecture scheme.
 Development: Write code and create the software. 
 Testing: Identify and correct errors to refine the software. 
 Implementation: launch of the software to the production environment. 
-Maintenance: Adress fixes, new cases of use, and optimizations after implementation.
+Maintenance: Address fixes, new cases of use, and optimizations after implementation.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -35,9 +35,9 @@ Low flexibility: Changes are difficult to integrate after phase completion.
 Delayed customer feedback: The feedback is usually accepted after the entire product is developed.
 Testing at the end of the process: Testing is performed at the end of the development cycle.
 Agile Methodology
-ITERATIVE AND GRAPHING: Development occurs in several cycles, known as sprints.
+ITERATIVE AND GRAPHING: Development occurs in several cycles
 High flexibility: Adaptable to changing requirements throughout the project.
-Regular customer feedback: The feedback is integrated at the end of each sprint.
+Regular customer feedback: The feedback is integrated at the end of each cycl.
 Continuous testing: Testing is performed after each iteration.
 
 
@@ -45,10 +45,12 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 Software developer:
   Coding: Write, test, and maintain the code for software applications. 
   Problems solution: tuning and problem solving within software. 
-  COOPERATION: Cooperate with other team members to integrate different parts of the software. Documentation: Create and maintain technical software documentation. Engineer to ensure quality (QA) 
+  COOPERATION: Cooperate with other team members to integrate different parts of the software.
+  Documentation: Create and maintain technical software documentation. Engineer to ensure quality (QA) 
   Testing: Expire and perform testing plans to identify and repair software defects. 
   Automation: Implement automated test scripts to increase test efficiency. 
-  Quality standards: Make sure the software meets standards and quality requirements. 
+Quality assurance:
+  Make sure the software meets standards and quality requirements. 
   Feedback: Give developers feedback to improve the quality of software. 
 Project manager 
   Planning: Define project scope, goals, and outputs. 
@@ -59,12 +61,12 @@ Project manager
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated development environment (IDE) Function: 
   Software set that helps in writing, compiling, and debugging code and increasing the efficiency of development. 
-  Advantages: understanding of syntax rules, and code formats, suggests automatic completion, increases productivity, compiles code, automates unit tests and helps tuning. 
+  Advantages: understanding of syntax rules, and code formats, suggests automatic completion, increases productivity, compiles code, automates unit tests, and helps tuning. 
 Version Management Systems (VCS) Functions: Tools like GIT that manage the source code over time. Advantages: It facilitates cooperation, monitors changes, promotes      branching and mergers, and allows errors to be errors.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Rapid Technology Changes
-  Challenge: Stay updated using rapidly developing technologies. 
+  Challenge: Stay updated of the rapidly developing technologies. 
   Solution: participate in continuous learning and accept agile methodologies.
 Time restriction Call: fulfillment of strict terms under high pressure. 
   Solution: Use Agile Frameworks like Scrum to manage workflows. 
@@ -82,7 +84,7 @@ Ensuring Software Security
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 unit testing: It focuses on individual components to ensure that each part works properly. 
 Integration testing: examines the interaction between different modules to verify the smooth data flow and functionality. 
-System testing: evaluates the entire software system to ensure that it meets the performance, usability, and safety requirements. 
+System testing: evaluates the entire software system to ensure it meets the performance, usability, and safety requirements. 
 Acceptance testing: simulates real user scenarios to determine whether the software meets business requirements and is ready to deploy.
 
 
@@ -91,6 +93,14 @@ Acceptance testing: simulates real user scenarios to determine whether the softw
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the process of crafting queries in a manner that will help the AI models come up with the best possible outcomes that are desirable.
+A good prompt always equals a good result.
+When we can craft an effective prompt, the AI models can shape their responses to ensure that we get coherent responses that are meaningful.
+Effective prompt engineering ensures that we can utilize the full capabilities of AI models.
+In the Cybersecurity domain, prompt engineers can build and test effective security mechanisms to simulate cyberattacks and design better defense strategies.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+vague prompt: Create an image of a dog sitting by a lake.
+improved version: Create an image of a middle-aged German shepherd lying by a lake watching the birds fly across the sunset. Besides him on the right sits a flickering flame that casts a warm glow across his fur.
+For the vague prompt, we get just a basic picture of a dog sitting by a lake. However, for the improved prompt, we can give specific details about the dog and its surroundings and this helps the AI model to generate a more vivid and accurate picture of the dog.
+
